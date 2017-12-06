@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 import App from './App.jsx';
 
+//TODO test this
 const router = (
   <Router>
     <Route component={App} />
